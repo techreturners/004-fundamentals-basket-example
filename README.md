@@ -31,3 +31,35 @@ When writing software, developers use tools to help them. One of those tools is 
 You use an IDE to write software in the same way that you might use Microsoft Word to produce a document.
 
 On this course we use a tool called Visual Studio Code to support our writing of code. So firstly head over to their website to [download and install Visual Studio Code](https://code.visualstudio.com/).
+
+#### 2) Install Homebrew
+
+TBC If we have them on Mac OS
+
+#### 3) Install Node
+
+The next item to install is [NodeJS](https://nodejs.org/en/). Node provides the Javascript framework for running our code and applications. 
+
+When you install Node it also installs [Node Package Manager](https://www.npmjs.com/) (NPM for short). Node Package Manager (NPM) is a piece of software that allows you to install other Javascript packages that have been created by the global software development community. 
+
+The packages contain code written by other people and have been made available for everyone to use. Making your code available to the global community is a practice known as [Open Sourcing](https://en.wikipedia.org/wiki/Open-source_software) your software.
+
+For example - lets say you want to convert a number to its English description. Convert the number _100_ to its description of **one hundred**. In programming terms this is harder than you might expect - however someone has already [created a piece of code that does this](https://www.npmjs.com/package/number-to-words) and it saves us writing our own code to solve this problem. Leaving us to focus on writing code for our own unique problems and businesses. 
+
+To install Node run the following command:
+
+```
+brew install node
+```
+
+You should now see a lot of text on your console as Node gets installed. You can verify that node is installed by running:
+
+```
+node -v
+```
+
+It should output something similar to the example below. NOTE: The version you see might differ to the example below.
+
+```
+v7.7.2
+```
