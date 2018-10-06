@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/techreturners/001-fundamentals#readme",
   "devDependencies": {
-    "jest": "^23.6.0"
+    "jest": "23.6.0"
   }
 }
