@@ -46,7 +46,7 @@ The packages contain code written by other people and have been made available f
 
 For example - lets say you want to convert a number to its English description. Convert the number _100_ to its description of **one hundred**. In programming terms this is harder than you might expect - however someone has already [created a piece of code that does this](https://www.npmjs.com/package/number-to-words) and it saves us writing our own code to solve this problem. Leaving us to focus on writing code for our own unique problems and businesses. 
 
-To install Node run the following command:
+To install Node run the following command in your terminal:
 
 ```
 brew install node
@@ -63,3 +63,14 @@ It should output something similar to the example below. NOTE: The version you s
 ```
 v7.7.2
 ```
+
+#### 4) Install Git
+
+Git is a [Version Control System](https://en.wikipedia.org/wiki/Version_control) (VCS for short). At this stage don't worry too much about what Git is or what it does, we cover Version Control Systems and Git in more detail later this week. For now we just need to make sure it is installed on your laptop. 
+
+To install Git run the following command in your terminal:
+
+```
+brew install git
+```
+
