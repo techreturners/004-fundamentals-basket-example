@@ -61,7 +61,7 @@ node -v
 It should output something similar to the example below. NOTE: The version you see might differ to the example below.
 
 ```
-v7.7.2
+v8.11.1
 ```
 
 #### 4) Install Git
