@@ -53,3 +53,21 @@ To install Git run the following command in your terminal:
 ```
 brew install git
 ```
+
+You can check that git is installed by running:
+
+```
+git --version
+```
+
+It should output something similar to:
+
+```
+git version 2.11.0 (Apple Git-81)
+```
+
+## Next steps
+
+Well done! Now you have got your laptop all ready to go, we're in a position to start running the application and get our hands on writing code.
+
+Head on over to the [instructions for running the application and tests](./RUNNING-APPLICATION.md).
