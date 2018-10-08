@@ -66,6 +66,30 @@ It should output something similar to:
 git version 2.11.0 (Apple Git-81)
 ```
 
+#### 5) Clone down the code
+
+All the code examples we use throughout the course are hosted on [GitHub](https://github.com).
+
+[GitHub](https://github.com) is an online service that provides remote Git repositories. Essentially this means we can write our code on our laptops then when we're ready we can **push** that code up to the GitHub servers.
+
+It means that if something breaks on our laptop or similar issues then we know we ALWAYS have a copy of the code on GitHub.
+
+This also aids sharing - for example lets say you've done a bit of code and you want to share this with people. Prior to version control systems like Git, you would either show them your laptop (not always possible if you aren't in the same room), you might put your code on a USB (pen) drive (or even a floppy disk when I started!) or you might email your code etc.
+
+But what happens if you change code often - do you keep sharing the pen drive? Keep sending lots of emails? Use a different filename for every update? MyCode, MyCodeNew, MyCodeNewNew - I'm sure we've all done this!
+
+Version control systems remove all this and allow us to share code easily.
+
+By this stage you should already have a GitHub account. Please make sure your Tech Coach knows your GitHub Username so they can ensure you have access to the repository. Once you're access has been granted you can continue on to **clone** down the example code from the [TechReturners Repositories](https://github.com/techreturners) that are on GitHub. 
+
+To do this run the following command:
+
+```
+git clone git@github.com:techreturners/001-fundamentals.git
+```
+
+When you run this command, all the code on the GitHub servers will automatically be brought down and stored on your laptop. Imagine this as your way of taking the Pen drive from GitHub.
+
 ## Next steps
 
 Well done! Now you have got your laptop all ready to go, we're in a position to start running the application and get our hands on writing code.
