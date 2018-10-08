@@ -90,6 +90,18 @@ git clone git@github.com:techreturners/001-fundamentals.git
 
 When you run this command, all the code on the GitHub servers will automatically be brought down and stored on your laptop. Imagine this as your way of taking the Pen drive from GitHub.
 
+Once the above process has completed you can change in to the **001-fundamentals** folder and open up Visual Studio Code. To do this:
+
+```
+cd 001-fundamentals
+```
+
+And then
+
+```
+code .
+```
+
 ## Next steps
 
 Well done! Now you have got your laptop all ready to go, we're in a position to start running the application and get our hands on writing code.
