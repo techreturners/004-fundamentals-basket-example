@@ -22,7 +22,7 @@ Once opened you should then open the **Command Palette**. To do this simply hold
 
 You'll see a screen that looks similar to the following
 
-[!Visual Studio Code Shell Command](https://code.visualstudio.com/assets/docs/setup/mac/shell-command.png)
+![Visual Studio Code Shell Command](https://code.visualstudio.com/assets/docs/setup/mac/shell-command.png "Visual Studio Code Shell Command")
 
 Search for **shell command** and then choose the option:
 
