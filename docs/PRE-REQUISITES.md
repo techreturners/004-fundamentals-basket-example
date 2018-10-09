@@ -15,7 +15,7 @@ On this course we use a tool called Visual Studio Code to support our writing of
 Once installed we can do one more enhancement to your laptop in order to make it even easier to get coding. We'll do this by adding a command line shortcut that will start up Visual Studio Code for us.
 
 To do this firstly open Visual Studio Code on your laptop. This short video shows how you can open Visual Studio Code.
-(https://storage.googleapis.com/tech-returners-course/001-fundamentals-launchingvscode.mov)
+(https://storage.googleapis.com/tech-returners-course/001-fundamentals-launchingvscode.mp4)
 
 
 Once opened you should then open the **Command Palette**. To do this simply hold the **Shift + Cmd** keys and whilst they are held press the **P** key.
@@ -33,7 +33,6 @@ This will install the command line shortcut that allows you to start Visual Stud
 You can now quit Visual Studio Code.
 
 Further info on this process can be found [here under the **Launching from the command line**](https://code.visualstudio.com/docs/setup/mac#_launching-from-the-command-line) heading
-
 
 
 #### 2) Install Homebrew
