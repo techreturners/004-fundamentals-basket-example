@@ -50,7 +50,7 @@ Add a new test that will check that the calculator now supports a multiply funct
 
 At this stage the test should FAIL.
 
-## 5) Write a test for a multiply function
+## 5) Implement the multiply function
 
 Update your application to implement a new function that will multiply two numbers and return the result.
 
