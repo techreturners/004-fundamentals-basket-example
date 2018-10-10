@@ -89,7 +89,7 @@ It should output something similar to:
 git version 2.11.0 (Apple Git-81)
 ```
 
-#### 5) Clone down the code
+#### 5) Fork and Clone the code
 
 All the code examples we use throughout the course are hosted on [GitHub](https://github.com).
 
@@ -105,7 +105,7 @@ Version control systems remove all this and allow us to share code easily.
 
 By this stage you should already have a GitHub account. Please make sure your Tech Coach knows your GitHub Username so they can ensure you have access to the repository. Once you're access has been granted you can continue on to **fork**  the example code from the [TechReturners Repositories](https://github.com/techreturners) that are on GitHub. 
 
-In GitHub, [forking](https://help.github.com/articles/fork-a-repo/) means taking a copy of someone elses code and storing it in your own account.
+In GitHub, [forking](https://help.github.com/articles/fork-a-repo/) means taking a copy of someone else's code and storing it in your own account.
 
 Firstly open the following web page:
 
