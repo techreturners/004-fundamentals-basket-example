@@ -1,6 +1,7 @@
 # Coding Tasks
 
 **Note**
+
 Where applicable, try to do the coding tasks with ping pong [pair programming](http://wiki.c2.com/?PairProgrammingPingPongPattern). 
 
 For example, in your pairs, person A could do task 2, observe that the test fails because task 3 has not been completed. 
@@ -57,6 +58,8 @@ The test from task 4 should now pass.
 
 
 # Written questions
+
+The following questions are intended to be answered with written answers (no coding required) and should re-enforce some of the learning you have completed.
 
 1) Which part is the file extension of the package.json file?
 
