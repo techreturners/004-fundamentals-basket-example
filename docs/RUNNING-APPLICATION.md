@@ -57,11 +57,11 @@ The keys are always string and define the name of the property and the values ar
 
 Remember we talked about installing packages and open source code created by other people? A key responsibility of this file is managing the installation of those open source pieces of code that we are going to use. Said another way, this file manages our [software dependencies](https://www.nexb.com/blog/introduction_to_software_dependencies.html).
 
-Look for the **devDependencies** key. Notice it has a nested object where one of those items is called **jest** and its values is a string of **23.6.0**. This tells the Node Package Manager that our software has a **dependency** on another piece of code called [jest](https://jestjs.io/) and we want **version** 23.6.0 to be installed.
+Look for the **devDependencies** key. Notice it has a nested object where one of those items is called **jest** and its value is a string of **23.6.0**. This tells the Node Package Manager (NPM) that our software has a **dependency** on another piece of code called [jest](https://jestjs.io/) and we want **version** 23.6.0 to be installed.
 
-It also defines the **scripts** that we can do to run our application. Notice the **scripts** key has a nested object that in turn has a key of **test** with a value of **jest**.
+The package.json also defines the **scripts** that we can do to run our application. Notice the **scripts** key has a nested object value that in turn has a key of **test** with a value of **jest**.
 
-That section is telling us that we can run the `npm test` and that will in turn invoke the **jest** command.
+That section is telling us that we can run the `npm test` command and that will in turn invoke the **jest** command.
 
 ### Using the package.json to install dependencies
 
@@ -98,7 +98,7 @@ module.exports = {
 
 ## Coding Tasks
 
-Now you're ready to get started on the coding tasks. Once you're in a pair head on over to the [coding tasks and get started](./TASKS.md).
+Now you're ready to get started on the coding tasks. In your pairs, head on over to the [coding tasks and get started](./TASKS.md).
 
 
 
