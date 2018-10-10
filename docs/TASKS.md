@@ -2,7 +2,7 @@
 
 **Note**
 
-Where applicable, try to do the coding tasks with ping pong [pair programming](http://wiki.c2.com/?PairProgrammingPingPongPattern). 
+Where applicable, try to do the coding tasks with [ping pong pair programming](http://wiki.c2.com/?PairProgrammingPingPongPattern). 
 
 For example, in your pairs, person A could do task 2, observe that the test fails because task 3 has not been completed. 
 
