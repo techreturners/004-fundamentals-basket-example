@@ -103,12 +103,24 @@ But what happens if you change code often - do you keep sharing the pen drive? K
 
 Version control systems remove all this and allow us to share code easily.
 
-By this stage you should already have a GitHub account. Please make sure your Tech Coach knows your GitHub Username so they can ensure you have access to the repository. Once you're access has been granted you can continue on to **clone** down the example code from the [TechReturners Repositories](https://github.com/techreturners) that are on GitHub. 
+By this stage you should already have a GitHub account. Please make sure your Tech Coach knows your GitHub Username so they can ensure you have access to the repository. Once you're access has been granted you can continue on to **fork**  the example code from the [TechReturners Repositories](https://github.com/techreturners) that are on GitHub. 
 
-To do this run the following command:
+In GitHub, [forking](https://help.github.com/articles/fork-a-repo/) means taking a copy of someone elses code and storing it in your own account.
+
+Firstly open the following web page:
+
+https://github.com/techreturners/001-fundamentals
+
+Once the page has loaded click the **Fork** button located towards the top right of the screen. You should see a popup that looks similar to the image below:
+
+![Fork repo](https://storage.googleapis.com/tech-returners-course/001-fundamentals-fork-repo.png)
+
+Click the button that matches your GitHub username.
+
+Once the fork process has completed (you'll be taken to a new screen) you can **clone** down the code. To do this run the following command, replacing the **USERNAME** with your own GitHub username:
 
 ```
-git clone git@github.com:techreturners/001-fundamentals.git
+git clone git@github.com:USERNAME/001-fundamentals.git
 ```
 
 When you run this command, all the code on the GitHub servers will automatically be brought down and stored on your laptop. Imagine this as your way of taking the Pen drive from GitHub.
