@@ -66,3 +66,8 @@ The following questions are intended to be answered with written answers (no cod
 2) What does JSON stand for?
 
 3) What is the purpose of JSON?
+
+4) What does the package.json file do?
+
+5) What are some of the different 'types' that can be represented in JSON?
+
