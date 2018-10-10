@@ -10,4 +10,6 @@ Before we dive in to the code lets first understand the folder and file structur
 
 By now Visual Studio Code should be open and you can see your code. If this isn't the case please go back to the [pre-requisites documentation](./PRE-REQUISITES.md) and follow through the steps.
 
+It should look similar to the screenshot below:
+
 
