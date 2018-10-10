@@ -16,7 +16,7 @@ Person A writes the code and implements the function for task 5 and so on and so
 
 ## 1) Enhancing your package.json
 
-Update your package.json and get it list out files and directories when you run `npm run show-all-files`
+Update your package.json and get it to list out files and directories when you run `npm run show-all-files`
 
 You should see something like the following:
 
