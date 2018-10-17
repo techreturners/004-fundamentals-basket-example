@@ -1,4 +1,6 @@
-# Week 1 - Programming Fundamentals
+# Week 1 - Programming Fundamentals 
+
+# Data types, operators and functions
 
 ## Introduction
 
