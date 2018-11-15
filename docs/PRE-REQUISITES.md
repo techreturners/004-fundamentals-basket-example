@@ -37,7 +37,13 @@ Further info on this process can be found [here under the **Launching from the c
 
 #### 2) Install Homebrew
 
-TBC If we have them on Mac OS
+Next install Homebrew. To install homebrew, open up the terminal and run
+
+```
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+```
+
+More details on HomeBrew can be [found here](https://brew.sh/)
 
 #### 3) Install Node
 
