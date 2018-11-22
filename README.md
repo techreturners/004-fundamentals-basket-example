@@ -8,9 +8,7 @@ This repository contains the code for the basket example we have been covering t
 
 ## Getting the code
 
-You can 'fork' this repository by clicking the **Fork** button shown towards the top right of the screen here:
-
-https://github.com/techreturners/004-fundamentals-basket-example
+You can 'fork' this repository by clicking the **Fork** button shown towards the top right of this screen.
 
 When you **fork** a repository, it takes a copy of ALL the code and files and puts it in to your own GitHub account.
 
