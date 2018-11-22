@@ -13,9 +13,18 @@ function addToBasket(book) {
     
 }
 
+// if there are more than 10 books in basket and you remove one make sure you only subtract the
+//  discounted price from the balance.
 function removeFromBasket(book) {
+    if(booksInBasket > 10 ) {
+        balance = balance - ( book.price * 0.75 );
+    }
+    else {
+        balance = balance - book.price;
+    }
+
     booksInBasket--;
-    balance = balance - book.price;
+   
 }
 
 function addMultipleBooksToBasket(book, numberOfBooks) {
