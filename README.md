@@ -28,6 +28,8 @@ In order to run the tests you do:
 npm install
 ```
 
+NOTE: You only need to run `npm install` once, after first cloning.
+
 and then do 
 
 ```
