@@ -15,7 +15,12 @@ function addToBasket(book) {
 
 function removeFromBasket(book) {
     booksInBasket--;
-    balance = balance - book.price;
+    if(booksInBasket > 9) {
+        balance = balance - (book.price * 0.75 );
+    }
+    else {
+        balance = balance - book.price;
+}
 }
 
 function addMultipleBooksToBasket(book, numberOfBooks) {
