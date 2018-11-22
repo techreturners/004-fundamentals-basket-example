@@ -1,24 +1,50 @@
 # Week 1 - Programming Fundamentals 
 
-# Data types, operators and functions
+# Basket example
 
 ## Introduction
 
-Welcome everyone to Week 1 of your course!
+This repository contains the code for the basket example we have been covering this week.
 
-The following instructions are provided to help you get to grips with some initial programming fundamentals.
+## Getting the code
 
-Although we focus on the Javascript language, the structures and approaches you learn over the next exercises are applicable to all programming languages. The main thing that changes between languages is the [syntax](https://en.wikipedia.org/wiki/Syntax).
+You can 'fork' this repository by clicking the **Fork** button shown towards the top right of the screen here:
 
-For example if your 1st language is English and you visit Greece - when you visit a restaurant you may speak in Greek to place your food order. The structure of the sentence is very different to English. It is **syntactically** different. However the outcome and target of what you want to achieve, order an amazing meal, is the same whether you order in English or Greek.
+https://github.com/techreturners/004-fundamentals-basket-example
 
-In the coding exercises we just _choose_ to teach Javascript in the same way that you might have just _chose_ to speak in Greek.
+When you **fork** a repository, it takes a copy of ALL the code and files and puts it in to your own GitHub account.
 
-## Technology
+Once you have forked your repository you should be able to clone it from your own account by replacing the **YOURUSERNAME** part with your actual GitHub username.
 
-We'll be making use of the Javascript programming language within a [Node](https://nodejs.org/en/) environment and utilising a test framework called [Jest]( https://jestjs.io/en/) to run our code.
+```
+git clone https://github.com/YOURUSERNAME/004-fundamentals-basket-example.git
+```
 
-## Instructions
+## Running the code
 
-Head on over to the [instructions for getting your laptop ready](./docs/PRE-REQUISITES.md).
+Once you have 'cloned' the code you can run the tests.
+
+In order to run the tests you do:
+
+```
+npm install
+```
+
+and then do 
+
+```
+npm test
+```
+
+## A failing test
+
+When running the tests you'll notice that one of the tests is currently failing. The test is a valid test so that must mean that the basket is performing incorrectly.
+
+Take a good at fixing the basket so that the test passes.
+
+Once you've fixed that test, go ahead and **commit** your code and **push** the changes up to GitHub.
+
+
+
+
 
